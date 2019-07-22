@@ -3,7 +3,7 @@ package com.company.server;
 public class RequestGenerator {
 
     Server server = new Server();
-    private static final int NUMB_OF_METHODS = 5;
+    private static final int NUMB_OF_METHODS = 10;
 
     public void generateRequest() {
 
